@@ -5,4 +5,6 @@ My name is Jon Ulriko C. Tubal. Nice to meet you :)
 - [@Juctubal](https://github.com/Juctubal)
 
 ## Sample Code
-`printf("Hello Word!");`
+`printf("Hello Word!");
+
+hello
