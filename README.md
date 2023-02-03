@@ -7,4 +7,5 @@ My name is Jon Ulriko C. Tubal. Nice to meet you :)
 ## Sample Code
 `printf("Hello Word!");`
 
-
+## How to install
+- Step 1:Download the zip file or use git code
