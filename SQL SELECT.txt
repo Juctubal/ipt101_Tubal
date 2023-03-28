@@ -1,0 +1,4 @@
+SELECT * FROM `pets
+SELECT pName, pBreed FROM `pets` 
+SELECT pName, pBreed FROM `pets` ORDER BY pName
+SELECT movIdNo, movTitle, movDuration,movDaterel, movDirector FROM `pets` ORDER BY movTitle
